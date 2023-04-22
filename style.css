@@ -1,50 +1,16 @@
-.caixa {
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
+.cabecalho{
+    background-color: white;
+    color: black;
+    display: flex;
 }
 
-
-nav {
-    position: absolute;
-    top: 110px;
-    right: 0;
+.cabecalho-imagem{
+    width: 20%;
 }
 
-
-header {
-    background: #ebb46c;
-    padding: 20px 0;
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
 }
-
-
-.caixa {
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
-}
-
-
-nav {
-    position: absolute;
-    top: 110px;
-    right: 0;
-}
-
-
-nav li {
-    display: inline;
-    margin: 0 0 0 15px;
-}
-
-
-
-
-nav a {
-    text-transform: uppercase;
-    color: white;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
-}
-
