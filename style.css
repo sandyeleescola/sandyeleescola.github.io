@@ -1,6 +1,6 @@
-.cabecalho {
-    background:#b47b47;
-    padding: -30px 0;
+.cabecalho{
+    background: #b47b47;
+padding: -30px 0;
 }
 
 
@@ -13,20 +13,23 @@ color: white;
 font-weight: bold;
 font-size: 22px;
 display: inline;
-margin: 0 0 0 200px;
+margin-left:200px;
 }
 
 .cabecalho-lista-item{
 display: inline-block;
-margin: 0 16px;
+margin-left: 16px;
+margin-right: 16px;
 padding: 24px 0;
 font-size: 24px;
-color: white
+color: white;
+top: 110px;
 }
 
 .produtos{
 width: 940px;
-margin: 0 auto;
+margin-left: auto;
+margin-right: auto;
 padding: 50px 0;
 }
 .produtos li {
@@ -34,11 +37,16 @@ display: inline-block;
 text-align: center;
 width: 30%;
 vertical-align: top;
-margin: 0 1.5%;
+margin-left: 1.5%;
+margin-right: 1.5%;
 padding: 30px 20px;
 box-sizing: border-box;
 border: 2px solid #ffffff;
 border-radius: 10px;
+}
+.saibamais {
+background-color: rgba(84, 182, 39, 0.589);
+padding: 10px 0;
 }
 .rodape{
 background: #b47b47;
