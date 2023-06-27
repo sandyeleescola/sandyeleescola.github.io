@@ -1,6 +1,8 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
    }
+   
    
    .cabecalho{
         background: #b47b47;
@@ -22,8 +24,8 @@ margin-left:200px;
 
 .cabecalho-lista-item{
 display: inline-block;
-margin-left: 16px;
-margin-right: 16px;
+margin-left: auto;
+margin-right: auto;
 padding: 24px 0;
 font-size: 24px;
 color: white;
@@ -37,8 +39,8 @@ color: black;
 }
 .produtos{
 width: 940px;
-margin-left: 20;
-margin-right: 20;
+margin-left: auto;
+margin-right: auto;
 padding: 50px 0;
 }
 .produtos li {
